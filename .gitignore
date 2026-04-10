@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+env/
+nav-env/
+outputs/simulation_videos/*.mp4
